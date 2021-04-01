@@ -11,7 +11,7 @@ run script in carnets
 __Tools:__
 ```
 hypotenuse.py
-- calculates the hypotenuse (or missing side) of a triangle given and two sides
+- calculates the hypotenuse (or missing side) of a triangle given two sides
 - useful for building / triangulating grids in the field
 ```
 
