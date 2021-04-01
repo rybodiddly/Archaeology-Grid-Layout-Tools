@@ -1,2 +1,2 @@
 # Grid-Layout-Tools
-Useful python scripts for grid layouts in the field.
+Useful python scripts for archaeological grid layouts in the field.
