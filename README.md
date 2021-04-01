@@ -5,6 +5,7 @@ __Recommended Usage:__
 ```
 install Carnets on your smartphone
 copy each of the scripts into a new file and save in carnets
+run script in carnets
 ```
 
 __Tools:__
