@@ -1,0 +1,5 @@
+print('Input length:')
+a = float(input('length: '))
+b = (a/2) - (1.41/2)
+c = (a/2) + (1.41/2)
+print('Middle Points:', b, c)
