@@ -17,6 +17,6 @@ hypotenuse.py
 
 ```
 middle13.py
-- caclulates the middle unit along a diagonal hypotenuse, referred to as 13's'
+- caclulates the middle unit along a diagonal hypotenuse, referred to as 13's
 - measure from outside edge to outside edge of units, not from stake to stake.
 ```
