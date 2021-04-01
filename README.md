@@ -4,7 +4,7 @@ Useful python scripts for archaeological grid layouts in the field.
 __Recommended Usage:__
 ```
 install Carnets on your smartphone
-copy the scripts into a new file and save in carnets
+copy each of the scripts into a new file and save in carnets
 ```
 
 __Tools:__
